@@ -1,0 +1,11 @@
+gpu: 0
+parallel: True
+seed: 0
+bn: False
+data: 'path/to/celebA'
+out: 'result'
+epoch: 100
+batch_size: 16
+resume: ''
+log_interval: 100
+snapshot_interval: 5
