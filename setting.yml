@@ -5,7 +5,7 @@ bn: False
 data: 'path/to/celebA'
 out: 'result'
 epoch: 100
-batch_size: 16
+batch_size: 5
 resume: ''
 log_interval: 100
 snapshot_interval: 5
